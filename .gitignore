@@ -1,0 +1,14 @@
+compile/   
+constraint_check/
+device_map/
+generate_bitstream/
+ipcore/
+logbackup/
+pango_sim_libraries/
+place_route/
+report_timing/
+sim/
+synthesize/
+*log
+*.csv
+*.log
